@@ -2,7 +2,6 @@
 教务指定使用课本（不分专业）/计算机网络[[:space:]]自顶向下方法（原书第八版）-第1版-James[[:space:]]F.Kurose-机械工业出版社-9787111712367.pdf filter=lfs diff=lfs merge=lfs -text
 教务指定使用课本（不分专业）/电路分析基础-第3版-俎云霄-电子工业出版社-9787121381911.pdf filter=lfs diff=lfs merge=lfs -text
 教务指定使用课本（不分专业）/软件项目管理案例教程-第4版-韩万江-机械工业出版社-9787111629207.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/习近平新时代中国特色社会主义思想概论-第1版-本书编写组-高等教育出版社-9787040610536.pdf filter=lfs diff=lfs merge=lfs -text
 考试资料，往年试题，杂项电子书/电路分析基础答疑解惑与典型题解-第1版-北京邮电大学“电路分析基础”教学团队-北京邮电大学出版社-9787563557233.pdf filter=lfs diff=lfs merge=lfs -text
 考试资料，往年试题，杂项电子书/物理-光学/新概念物理教程·光学-第1版-赵凯华-高等教育出版社-9787040155624.pdf filter=lfs diff=lfs merge=lfs -text
 考试资料，往年试题，杂项电子书/电子电路基础（模电）/2010-2011学年第一学期《电子电路基础》期中考试试题.pdf filter=lfs diff=lfs merge=lfs -text
@@ -40,3 +39,4 @@
 .git/lfs/objects/07/90/07905c510fa0ea35e30c8529a4db82a2b47715ae8e6e668b417c3b937ce2f7df filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/da/4d/da4d4871c439a929ee0158c11881edec13041c50a4e5c369340df3063f2c65c8 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/8a/e1/8ae1a1ace52274295acaceac0a8e6dfbbae785faf9c7ea875bf33151b99aa5b2 filter=lfs diff=lfs merge=lfs -text
+教务指定使用课本（不分专业）/习近平新时代中国特色社会主义思想概论-2023版-本书编写组-高等教育出版社-9787040610536.pdf filter=lfs diff=lfs merge=lfs -text
