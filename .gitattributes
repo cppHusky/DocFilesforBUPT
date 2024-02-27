@@ -40,3 +40,6 @@
 .git/lfs/objects/da/4d/da4d4871c439a929ee0158c11881edec13041c50a4e5c369340df3063f2c65c8 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/8a/e1/8ae1a1ace52274295acaceac0a8e6dfbbae785faf9c7ea875bf33151b99aa5b2 filter=lfs diff=lfs merge=lfs -text
 教务指定使用课本（不分专业）/习近平新时代中国特色社会主义思想概论-2023版-本书编写组-高等教育出版社-9787040610536.pdf filter=lfs diff=lfs merge=lfs -text
+教务指定使用课本（不分专业）/现代密码学教程-第2版-谷利泽-北京邮电大学出版社-9787563543076.pdf filter=lfs diff=lfs merge=lfs -text
+教务指定使用课本（不分专业）/微机原理与接口技术-第3版-田辉-高等教育出版社-9787040537833.pdf filter=lfs diff=lfs merge=lfs -text
+教务指定使用课本（不分专业）/工科数学分析基础·下-第3版-马知恩-高等教育出版社-9787040491159.pdf filter=lfs diff=lfs merge=lfs -text
