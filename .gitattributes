@@ -1,10 +1,13 @@
 应用软件（建议重命名后再收入）/讯飞星火.apk filter=lfs diff=lfs merge=lfs -text
 .git/objects/pack/pack-9b42afb0d7ee1451d648a3accb59ea086bd906ba.pack filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/13/eb/13eba5876b955246f97ee3c3e25dad94215f5fa2c71653fadbf0f089d38d7c52 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/41/fb/41fb0f9271c2b407ea152e09e3838f4be476ab2a90b003d1692d8debef742bd2 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/22/5b/225b6558f2faf9d3861d41df4b5ff776323baa572e20a67aabe3edfb3f7b45c3 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/96/d0/96d0db9058c1294547eb15232be12a3d69a06cc4ed05fa3c6678e953c599e7e4 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/14/b4/14b4d678fcc1bf83f3abf2f23e5a39616ab6b3c145c63ce9e59ba6bff4458a7c filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/00/cb/00cb30dd28f9ba1cc9dc09119c6ba8fed1d061cf67e54bb2b0347fc8cb275500 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/a2/43/a24339ef35baf652956c65bc6652d15b346687c653249a269227b97795f7cd22 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/88/27/8827ce85b078054dc6e6242c1be178cc18200a609d92938411f73bf904a84ad7 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/4b/30/4b3052f2a7b9f74e388221e209c835f3e982b8f2b45959d7d669bc95a48d6da9 filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/07/90/07905c510fa0ea35e30c8529a4db82a2b47715ae8e6e668b417c3b937ce2f7df filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/b4/5c/b45c743430559e3bd591f8ca52b1fd548933e7a63b7310aa57e0d04fdfd1323e filter=lfs diff=lfs merge=lfs -text
@@ -12,11 +15,4 @@
 .git/lfs/objects/8a/e1/8ae1a1ace52274295acaceac0a8e6dfbbae785faf9c7ea875bf33151b99aa5b2 filter=lfs diff=lfs merge=lfs -text
 教务指定使用课本（不分专业）/大学物理学·电磁学·光学·量子物理-第4版-张三慧-清华大学出版社-9787302509844.pdf filter=lfs diff=lfs merge=lfs -text
 教务指定使用课本（不分专业）/大学物理学·力学·热学-第4版-张三慧-清华大学出版社-9787302509806.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/软件项目管理案例教程-第4版-韩万江-机械工业出版社-9787111629207.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/现代密码学教程-第2版-谷利泽-北京邮电大学出版社-9787563543076.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/微机原理与接口技术-第3版-田辉-高等教育出版社-9787040537833.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/电路分析基础-第3版-俎云霄-电子工业出版社-9787121381911.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/计算机网络[[:space:]]自顶向下方法（原书第八版）-第1版-James[[:space:]]F.Kurose-机械工业出版社-9787111712367.pdf filter=lfs diff=lfs merge=lfs -text
-教务指定使用课本（不分专业）/工科数学分析基础·下-第3版-马知恩-高等教育出版社-9787040491159.pdf filter=lfs diff=lfs merge=lfs -text
 考试资料，往年试题，杂项电子书/大学生数学竞赛/全国大学生数学竞赛参赛指南-第1版-佘志坤-科学出版社-9787030714428.pdf filter=lfs diff=lfs merge=lfs -text
-考试资料，往年试题，杂项电子书/物理-光学/新概念物理教程·光学-第1版-赵凯华-高等教育出版社-9787040155624.pdf filter=lfs diff=lfs merge=lfs -text
