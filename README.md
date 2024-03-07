@@ -10,11 +10,10 @@
 
 复制修改过的文件/文件夹到指定位置（并保留文件结构），可以用以下组合指令：
 
-```
+```bash
 > filelist.txt
 find /source/directory -type d -newermt 'YYYY-MM-DD HH:MM:SS' -exec sh -c 'find "$0" -type f' {} \; >> filelist.txt
 rsync -av --files-from=filelist.txt --relative /source/directory /destination/directory
 ```
 
 <!-- 如要压缩PDF文件，可以使用 `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf` 指令。其中的 `output.pdf` 和 `input.pdf` 应换成具体的路径名。（暂不推荐使用，直到这个方法证实可靠） -->
-<!-- 思修教材被我误删了。回头加上。 -->
